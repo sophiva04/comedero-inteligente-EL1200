@@ -5,7 +5,7 @@ Comedero para gatos desarrollado con ESP32 y simulado con Wokwi. Utiliza un sens
 
 Proyecto del curso EL-1200 Introducción a la Electrónica, TEC, II semestre 2026.
 
-**Integrantes:** <Sophia Vargas Morales>
+**Integrantes:** <Sophia_Vargas_Morales>
 
 ## Descripción
 Comedero automático que dispensa alimento cuando detecta la presencia de un gato, evitando servir comida repetidamente.
